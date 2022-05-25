@@ -1,3 +1,4 @@
+<!--
 # desafioGama-1
 
 Heeey, Hamilton Lopes!
@@ -99,3 +100,4 @@ Resposta correta: element.appendChild(para.appendChild(node))
 
 Abraços,
 Bruce da Gama Academy <3
+-->
